@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1592797540 source:c:\users\usuario\desktop\tpfinalprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1490112217 source:c:\users\usuario\desktop\tpfinalprogramacion\pila.c
+	"pila.h"
+
+1490112217 c:\users\usuario\desktop\tpfinalprogramacion\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1592967166 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (15) -21-06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1490112217 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (15) -21-06\pila.c
+	"pila.h"
+
+1490112217 c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (15) -21-06\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (16) -23-06\pila.c
+	"pila.h"
+
+1490112217 c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (16) -23-06\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1593037008 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (16) -23-06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1593108789 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (7) -24-06 terminado - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1490112217 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (7) -24-06 terminado - copia\pila.c
+	"pila.h"
+
+1490112217 c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (7) -24-06 terminado - copia\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (18) -25-06\pila.c
+	"pila.h"
+
+1490112217 c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (18) -25-06\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1593201236 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\tp final (18) -25-06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1593201236 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\#define dulc - casadei - chiappetta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1490112217 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\#define dulc - casadei - chiappetta\pila.c
+	"pila.h"
+
+1490112217 c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\#define dulc - casadei - chiappetta\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1593201236 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\#define dulc - casadei - chiappetta\#define dulc - codebocks - casadei - chiappetta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1490112217 source:c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\#define dulc - casadei - chiappetta\#define dulc - codebocks - casadei - chiappetta\pila.c
+	"pila.h"
+
+1490112217 c:\users\emiliano\desktop\programacion\programacion i\trabajos codeblocks\proyectos tp final\#define dulc - casadei - chiappetta\#define dulc - codebocks - casadei - chiappetta\pila.h
+	<stdio.h>
+	<malloc.h>
+
